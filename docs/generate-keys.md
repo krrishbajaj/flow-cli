@@ -13,7 +13,7 @@ flow keys generate
 
 ⚠️ Store private key safely and don't share with anyone!
 
-## Example Usage
+## Example Usag
 
 ```shell
 flow keys generate
